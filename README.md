@@ -2,7 +2,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusd63&show_icons=true&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusd63&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusd63&layout=compact&theme=highcontrast)
 
 
 <!--
