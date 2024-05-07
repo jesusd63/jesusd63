@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=monokai"><img src="https://github-profile-trophy.vercel.app/?username=jesusd63" alt="jesusd63 trophies" /></a> </p>
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusd63&show_icons=true&theme=highcontrast)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusd63&layout=compact&theme=highcontrast)
